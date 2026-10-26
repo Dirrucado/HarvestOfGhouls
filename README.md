@@ -15,4 +15,7 @@
 
 ***tutorial***
 
-    abre no gamemaker o seu projeto, clica em file, export e YYZ dai vai no GitHub. no GitHub vc vai em
+    abre no gamemaker o seu projeto, clica em file, export e YYZ dai vai no GitHub. no GitHub vc vai em add file. voce vai na barra de pesquisa, pesquisa .yyz provavelmente o seu codigo vai estar com nome de harvestGhouls_1_X_X.yzz e dai voce só substitui pra versão 1 maior que a atual (vamos supor que está na 1_4_4, voce vai colocar 1_4_5) e na descrição coloca oq voce adicionou ou modificou
+
+
+******OBIRGADO POR PARTICIPAR TWIN********
