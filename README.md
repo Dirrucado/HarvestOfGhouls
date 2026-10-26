@@ -1,6 +1,6 @@
 **olá***
 
-    se voce está vendo isso ou voce é alguém da equipe já faz tempo. ou algum novo integrante
+    se voce está vendo isso ou voce é alguém da equipe já faz tempo ou é algum novo integrante!
 
 -----------------------------------------------------------------------------------------------------------------------
 -como abrir?
