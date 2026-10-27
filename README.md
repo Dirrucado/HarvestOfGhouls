@@ -7,7 +7,7 @@
 
 ***tutorial***
 
-    baixa o gamemaker ae pra poder usar isso ae. dai dps disso vc vai baixar esse arquivo. (versão mais atual) abre ele no gamemaker
+    baixa o gamemaker ae pra poder usar isso ae. dai dps disso vc vai baixar esse arquivo. (versão mais atual). pra baixar é só clicar nele (no arquivo que terminar com .yyz) e clica no símbolo de retinha pra baixo. e abre ele no gamemaker
 
 
 -----------------------------------------------------------------------------------------------------------------------
